@@ -18,7 +18,6 @@ const DSCon = () => {
       {/* Image */}
       <img
         src={Image3}
-        alt="Description of the image"
         className="w-full md:w-1/4 h-full rounded-lg"
       />
     </div>
